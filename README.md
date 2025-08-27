@@ -3,9 +3,8 @@
 -->
 
 <h1 align="center">Salut, moi c'est Leonel 👋</h1>
-<p align="center">
-[    <img src="https://avatars.githubusercontent.com/u/186333061?s=400&u=402eb13cc94dd48d291fc4e1b9586fc1f088f391&v=4" alt="Typing SVG" />
-]
+<p style="border-radius: 50%; align="center">
+   <img style="border-radius: 50%; src="https://avatars.githubusercontent.com/u/186333061?s=400&u=402eb13cc94dd48d291fc4e1b9586fc1f088f391&v=4" alt="Typing SVG" />
 </p>
 
 ---
