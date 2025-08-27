@@ -3,11 +3,11 @@
 -->
 
 <h1 align="center">Salut, moi c'est Leonel 👋</h1>
-[<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/186333061?s=400&u=402eb13cc94dd48d291fc4e1b9586fc1f088f391&v=4" 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/186333061?s=200&u=402eb13cc94dd48d291fc4e1b9586fc1f088f391&v=4" 
        alt="Profil GitHub" 
-       style="border-radius: 50%; width: 150px; height: 150px;" />
-</p>]
+       style="border-radius: 50%;" />
+</p>
 
 ---
 
