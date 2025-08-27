@@ -4,7 +4,8 @@
 
 <h1 align="center">Salut, moi c'est Leonel 👋</h1>
 <p align="center">
-[  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=30BCFF&center=true&vCenter=true&width=700&lines=Développeur+Web+Full+Stack;Passionné+de+code+et+d'innovation;Toujours+prêt+à+relever+de+nouveaux+défis" alt="Typing SVG" />](https://avatars.githubusercontent.com/u/186333061?s=400&u=402eb13cc94dd48d291fc4e1b9586fc1f088f391&v=4)
+[    <img src="https://avatars.githubusercontent.com/u/186333061?s=400&u=402eb13cc94dd48d291fc4e1b9586fc1f088f391&v=4" alt="Typing SVG" />
+]
 </p>
 
 ---
