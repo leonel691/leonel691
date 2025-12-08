@@ -23,6 +23,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+  ![React.js](https://img.shields.io/badge/-React.js-ffffff?logo=react&logoColor=blue)
 
 ---
 
@@ -42,7 +43,7 @@ Ils illustrent ma passion pour le développement web, la créativité et l’app
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,tailwind" alt="Compétences principales" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,react,tailwind" alt="Compétences principales" />
 </p>
 
 ---
